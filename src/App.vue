@@ -10,6 +10,9 @@
   </div>
 </template>
 
+
+
+
 <style>
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
@@ -44,4 +47,6 @@
   background-color: #4CAF50;
   color: white;
 }
+
+
 </style>
